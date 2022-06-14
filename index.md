@@ -12,6 +12,17 @@
 - パソコン甲子園2021プログラミング部門 本戦出場
 - アルゴリズム実技検定 (PAST) 中級
 
+## スキル
+- Python3
+- C
+- C++
+- Java
+- Kotlin
+- SQL
+- Git
+- Linux
+- VSCode
+
 ## リンク
 - [Twitter](https://twitter.com/sk4rdz)
 - [Github](https://github.com/sk4rdz)
