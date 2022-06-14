@@ -8,9 +8,9 @@
 - [TAB ToDo](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo): タブで分類できるタスクリスト
 
 ## 実績等
-- SupercomputingContest2021 準優勝 ([参加記](https://sk4rd.hateblo.jp/entry/2021/12/28/235824))
-- パソコン甲子園2021プログラミング部門 本戦出場
-- アルゴリズム実技検定 (PAST) 中級
+- SupercomputingContest2021　準優勝（[参加記](https://sk4rd.hateblo.jp/entry/2021/12/28/235824)）
+- パソコン甲子園2021プログラミング部門　本戦出場
+- アルゴリズム実技検定（PAST） 中級
 
 ## スキル
 - Python3
@@ -21,7 +21,7 @@
 - SQL
 - Git
 - Linux
-- VSCode
+- VSCode　等
 
 ## リンク
 - [Twitter](https://twitter.com/sk4rdz)
