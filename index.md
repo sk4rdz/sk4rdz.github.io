@@ -4,8 +4,8 @@
 - 趣味で競プロとかアプリ開発とかやってます　現在求職中
 
 ## 作ったもの
-- [英単語レンズ](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens): 英語学習用に作った辞書アプリ
-- [TAB ToDo](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo): タブで分類できるタスクリスト
+- [英単語レンズ（Google Play）](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens): 英語学習用に作った辞書アプリ
+- [TAB ToDo（Google Play）](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo): タブで分類できるタスクリスト
 
 [その他制作物・ソースコードまとめ（Gist）](https://gist.github.com/sk4rdz/a7d03d6541a8f749778c4d0b5bf80fae)
 
@@ -16,7 +16,6 @@
 
 ## スキル
 - Python3
-- C
 - C++
 - Java
 - Kotlin
