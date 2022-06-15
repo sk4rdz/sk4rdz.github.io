@@ -7,7 +7,7 @@
 - [英単語レンズ](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens): 英語学習用に作った辞書アプリ
 - [TAB ToDo](https://play.google.com/store/apps/details?id=io.github.bjxytw.tabtodo): タブで分類できるタスクリスト
 
-[その他制作物まとめ（Gist）](https://gist.github.com/sk4rdz/a7d03d6541a8f749778c4d0b5bf80fae)
+[その他制作物・ソースコードまとめ（Gist）](https://gist.github.com/sk4rdz/a7d03d6541a8f749778c4d0b5bf80fae)
 
 ## 実績等
 - SupercomputingContest2021　準優勝（[参加記](https://sk4rd.hateblo.jp/entry/2021/12/28/235824)）
